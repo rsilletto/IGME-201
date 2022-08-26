@@ -1,31 +1,55 @@
 ﻿/* Rose Silletto
-*  IGME-201 PE1 Hello World
-*  August 25, 2022
+*  IGME-201 PE2 Squash Bugs
+*  August 26, 2022
 */
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace SquashTheBugs
 {
+    // Class Program
+    // Author: David Schuh
+    // Purpose: Bug squashing exercise
+    // Restrictions: None
     class Program
     {
+        // Method: Main
+        // Purpose: Loop through the numbers 1 through 10 
+        //          Output N/(N-1) for all 10 numbers
+        //          and list all numbers processed
+        // Restrictions: None
         static void Main(string[] args)
         {
-            // Console.WriteLine("Hello, World!");
-            Console.WriteLine("Rose Silletto");
+            // declare int counter
+            // int i = 0 -> needs semicolon
+            int i = 0;
 
-            int x = 5;
-            int y = 4;
+            string? allNumbers = null;
 
-            int result = x + y;
+            // loop through the numbers 1 through 10
+            for (i = 1; i < 10; ++i)
+            {
+                // declare string to hold all numbers
+                // string allNumbers = null;
 
-            Console.WriteLine("\n");
-            Console.WriteLine("result = " + result);
+                // output explanation of calculation
+                // Console.Write(i + "/" + i - 1 + " = ");
+                Console.Write(i + "/" + (i - 1) + " = ");
 
+                // output the calculation based on the numbers
+                Console.WriteLine(i / (i - 1));
+
+                // concatenate each number to allNumbers
+                // allNumbers += i + " ";
+                // allNumbers += (string) (i + " ");
+
+                // increment the counter
+                i = i + 1;
+            }
+
+            // output all numbers which have been processed
+            // Console.WriteLine("These numbers have been processed: " allNumbers);
+            Console.WriteLine("These numbers have been processed: " + allNumbers);
         }
     }
 }
