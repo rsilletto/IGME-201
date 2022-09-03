@@ -1,55 +1,43 @@
 ﻿/* Rose Silletto
-*  IGME-201 PE2 Squash Bugs
-*  August 26, 2022
+*  IGME-201 PE4 Flow Control
+*  September 3, 2022
 */
 
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace SquashTheBugs
+namespace HelloWorld
 {
-    // Class Program
-    // Author: David Schuh
-    // Purpose: Bug squashing exercise
-    // Restrictions: None
     class Program
     {
-        // Method: Main
-        // Purpose: Loop through the numbers 1 through 10 
-        //          Output N/(N-1) for all 10 numbers
-        //          and list all numbers processed
-        // Restrictions: None
         static void Main(string[] args)
         {
-            // declare int counter
-            // int i = 0 -> needs semicolon
-            int i = 0;
+            int? var1 = null;
+            int? var2 = null;
 
-            string? allNumbers = null;
+            start:
 
-            // loop through the numbers 1 through 10
-            for (i = 1; i < 10; ++i)
+            Console.WriteLine("Enter a number: ");
+            var1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter another number: ");
+            var2 = Convert.ToInt32(Console.ReadLine());
+
+            if ((var1 > 10) || (var2 > 10))
             {
-                // declare string to hold all numbers
-                // string allNumbers = null;
+                Console.WriteLine("yay! your numbers work");
+            }
+            else
+            {
+                Console.WriteLine("nooo. pick better numbers");
 
-                // output explanation of calculation
-                // Console.Write(i + "/" + i - 1 + " = ");
-                Console.Write(i + "/" + (i - 1) + " = ");
-
-                // output the calculation based on the numbers
-                Console.WriteLine(i / (i - 1));
-
-                // concatenate each number to allNumbers
-                // allNumbers += i + " ";
-                // allNumbers += (string) (i + " ");
-
-                // increment the counter
-                i = i + 1;
+                goto start;
             }
 
-            // output all numbers which have been processed
-            // Console.WriteLine("These numbers have been processed: " allNumbers);
-            Console.WriteLine("These numbers have been processed: " + allNumbers);
         }
     }
+
 }
