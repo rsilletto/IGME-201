@@ -1,0 +1,15 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\bin\Debug\net6.0\PE8 - Silletto.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\bin\Debug\net6.0\PE8 - Silletto.deps.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\bin\Debug\net6.0\PE8 - Silletto.runtimeconfig.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\bin\Debug\net6.0\PE8 - Silletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\bin\Debug\net6.0\PE8 - Silletto.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\refint\PE8 - Silletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\PE8 - Silletto.genruntimeconfig.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8 - Silletto\obj\Debug\net6.0\ref\PE8 - Silletto.dll

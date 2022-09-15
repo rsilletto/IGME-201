@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PE8  Part 2 - Sillletto/1.0.0": {
+        "runtime": {
+          "PE8  Part 2 - Sillletto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PE8  Part 2 - Sillletto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\bin\Debug\net6.0\PE8  Part 2 - Sillletto.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\bin\Debug\net6.0\PE8  Part 2 - Sillletto.deps.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\bin\Debug\net6.0\PE8  Part 2 - Sillletto.runtimeconfig.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\bin\Debug\net6.0\PE8  Part 2 - Sillletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\bin\Debug\net6.0\PE8  Part 2 - Sillletto.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\refint\PE8  Part 2 - Sillletto.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\PE8  Part 2 - Sillletto.genruntimeconfig.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE8  Part 2 - Sillletto\obj\Debug\net6.0\ref\PE8  Part 2 - Sillletto.dll

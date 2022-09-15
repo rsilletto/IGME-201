@@ -1,0 +1,5 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_SquashBugs\obj\Debug\net6.0\Silletto_SquashBugs.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_SquashBugs\obj\Debug\net6.0\Silletto_SquashBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_SquashBugs\obj\Debug\net6.0\Silletto_SquashBugs.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_SquashBugs\obj\Debug\net6.0\Silletto_SquashBugs.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_SquashBugs\obj\Debug\net6.0\Silletto_SquashBugs.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\bin\Debug\net6.0\Silletto_Flow Control_1.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\bin\Debug\net6.0\Silletto_Flow Control_1.deps.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\bin\Debug\net6.0\Silletto_Flow Control_1.runtimeconfig.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\bin\Debug\net6.0\Silletto_Flow Control_1.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\bin\Debug\net6.0\Silletto_Flow Control_1.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\refint\Silletto_Flow Control_1.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\Silletto_Flow Control_1.genruntimeconfig.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Silletto_Flow Control_1\obj\Debug\net6.0\ref\Silletto_Flow Control_1.dll
