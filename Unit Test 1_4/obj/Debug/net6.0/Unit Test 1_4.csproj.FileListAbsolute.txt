@@ -1,0 +1,15 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\bin\Debug\net6.0\Unit Test 1_4.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\bin\Debug\net6.0\Unit Test 1_4.deps.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\bin\Debug\net6.0\Unit Test 1_4.runtimeconfig.json
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\bin\Debug\net6.0\Unit Test 1_4.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\bin\Debug\net6.0\Unit Test 1_4.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\refint\Unit Test 1_4.dll
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\Unit Test 1_4.genruntimeconfig.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Unit Test 1_4\obj\Debug\net6.0\ref\Unit Test 1_4.dll
