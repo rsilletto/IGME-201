@@ -1,0 +1,5 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE 11 Traffic\obj\Debug\net6.0\PE 11 Traffic.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE 11 Traffic\obj\Debug\net6.0\PE 11 Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE 11 Traffic\obj\Debug\net6.0\PE 11 Traffic.AssemblyInfoInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE 11 Traffic\obj\Debug\net6.0\PE 11 Traffic.AssemblyInfo.cs
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE 11 Traffic\obj\Debug\net6.0\PE 11 Traffic.csproj.CoreCompileInputs.cache
