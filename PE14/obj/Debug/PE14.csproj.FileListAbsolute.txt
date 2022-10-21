@@ -1,0 +1,3 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE14\obj\Debug\PE14.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE14\obj\Debug\PE14.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE14\obj\Debug\PE14.csproj.CoreCompileInputs.cache
