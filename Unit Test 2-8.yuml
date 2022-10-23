@@ -1,0 +1,23 @@
+// Rose Silletto
+// IGME 202
+// Unit Test 2 #8
+
+// {type:class}
+// {generate:true}
+// {direction:topDown}
+
+[+A: Creature | -hitpoints:int | +HitPoints:int:r | +Move():a +Attack():v ]
+
+[+I: MonsterInterface ||| +Move():a +Attack():v ]
+
+[+I: PersonInterface ||| +Move():a +Attack():v +Talk():v ]
+
+[+Monster | -hitpoints:int | +HitPoints:int:r | +Move():a +Attack():v ]
+
+[+I: MonsterInterface]^[+Monster]
+[+A: Creature]^[+Monster]
+
+[+Person | -hitpoints:int | +HitPoints:int:r | +Move():a +Attack():v +Talk():v ]
+
+[+I: PersonInterface]^[+Person]
+[+A: Creature]^[+Person]
