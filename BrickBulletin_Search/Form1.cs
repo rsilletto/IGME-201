@@ -19,6 +19,9 @@ namespace BrickBulletin_Search
         public Form1()
         {
             InitializeComponent();
+
+            this.searchButton.Click += new EventHandler(searchButton__Click);
+
         }
     }
 }
