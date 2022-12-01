@@ -1,0 +1,6 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.Form1.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.Properties.Resources.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.csproj.GenerateResource.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\PE21\obj\Debug\PE21.csproj.CoreCompileInputs.cache
