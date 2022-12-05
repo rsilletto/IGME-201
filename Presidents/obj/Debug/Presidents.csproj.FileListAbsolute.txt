@@ -1,0 +1,6 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.PresidentsForm.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.Properties.Resources.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.csproj.GenerateResource.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\Presidents\obj\Debug\Presidents.csproj.CoreCompileInputs.cache
