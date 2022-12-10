@@ -1,0 +1,11 @@
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\bin\Debug\User Interface From Hell.exe.config
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\bin\Debug\User Interface From Hell.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\bin\Debug\User Interface From Hell.pdb
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User_Interface_From_Hell.QuizForm.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User_Interface_From_Hell.Properties.Resources.resources
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.csproj.GenerateResource.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.exe
+C:\Users\rsilletto21\OneDrive - Dwight-Englewood School\Desktop\IGME-201\User Interface From Hell\obj\Debug\User Interface From Hell.pdb
