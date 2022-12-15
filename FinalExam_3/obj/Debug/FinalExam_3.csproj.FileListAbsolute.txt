@@ -1,0 +1,8 @@
+C:\Users\rsilletto21\source\repos\FinalExam_3\bin\Debug\FinalExam_3.exe.config
+C:\Users\rsilletto21\source\repos\FinalExam_3\bin\Debug\FinalExam_3.exe
+C:\Users\rsilletto21\source\repos\FinalExam_3\bin\Debug\FinalExam_3.pdb
+C:\Users\rsilletto21\source\repos\FinalExam_3\obj\Debug\FinalExam_3.csproj.AssemblyReference.cache
+C:\Users\rsilletto21\source\repos\FinalExam_3\obj\Debug\FinalExam_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rsilletto21\source\repos\FinalExam_3\obj\Debug\FinalExam_3.csproj.CoreCompileInputs.cache
+C:\Users\rsilletto21\source\repos\FinalExam_3\obj\Debug\FinalExam_3.exe
+C:\Users\rsilletto21\source\repos\FinalExam_3\obj\Debug\FinalExam_3.pdb
